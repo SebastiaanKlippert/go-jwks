@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	jose "gopkg.in/square/go-jose.v2"
+	jose "gopkg.in/square/go-jose.v1"
 )
 
 var httpClient *http.Client
